@@ -12,11 +12,11 @@ Hints
 - Just like with Flexbox, you can easily center an item by making it into a grid
 - Don't worry about the placeholder image element stretching when resizing the browser window. This will be covered in the Responsive lessons
 
-![alt text](image.png)
+![alt text](./img/desired-outcome.png)
 
 If you use the tools in the Advanced Grid Properties lesson you should be able to get your article cards to automatically fit as the browser window is adjusted:
 
-![alt text](image-1.png)
+![alt text](./img/desired-outcome-stretched.png)
 
 Self Check
 
