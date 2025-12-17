@@ -11,3 +11,5 @@ Hints
 - You don't need to add or change anything to the HTML, but it will be helpful to look through the parent and child         relationships between elements
 - Just like with Flexbox, you can easily center an item by making it into a grid
 - Don't worry about the placeholder image element stretching when resizing the browser window. This will be covered in the Responsive lessons
+
+![alt text](image.png)
