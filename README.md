@@ -1,10 +1,8 @@
 # Holy Grail Mockup with Grid
 
-Holy Grail layout responsive.
-
 Now that you've made your Holy Grail layout responsive, we are going to have some fun making it a bit more complicated and adding some features. You might find this to be a bit more challenging than you expected. You might even be tempted to use Flexbox. But for the sake of this practice assignment, try and see if you can figure out how to recreate this entire mockup using only Grid. Feel free to add in your own dummy content or styling too!
 
-Hints
+# Hints
 
 - For this exercise you will need to add some CSS declaration blocks to the style.css file. Look through the HTML to see what selectors and combinators you can use.
 - Take the layout one section at a time
@@ -18,7 +16,7 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 
 ![alt text](./img/desired-outcome-stretched.png)
 
-Self Check
+# Self Check
 
 - The container element has two columns
 - The container's second column is 4 times larger than the first column
